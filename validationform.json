@@ -1,0 +1,90 @@
+ [{
+    "id":"1",
+    "name":"Afghanistan",
+    "phone-code":"+93",
+    "state":{
+        "Badakhshan":[
+            "Eshkashem",
+            "Fayzabad",
+            "Khandud",
+            "Jurm"
+        ],
+        "Badgis":[
+            "Bala Morghab"
+        ],
+        "Baglan":[
+            "Andarab",
+            "Baghlan",
+            "Dahaneh-ye Ghawri",
+            "Nahrin",
+            "Pol-e Khumri"
+        ]
+
+        
+    }
+},
+{
+    "id":"2",
+    "name":"Albania",
+    "phone-code":"+355",
+    "state":{
+        "Berat":[
+            "Berat",
+            "Polican",
+            "Ure Vajgurore"
+        ],
+        "Bulqize":[
+            "Bulqize"
+        ],
+        "Delvine":[
+            "Delvine"
+        ],
+        "Devoll":[
+            "Bilisht"
+        ],
+        "Dibre":[
+            "Maqellare",
+            "Peshkopi"
+        ],
+        "Durres":[
+            "Durres",
+            "Shijak"
+        ],
+        "Elbasan":[
+            "Cerrik"
+        ]
+
+    }
+},
+{
+     "id":"3",
+     "name":"India",
+     "phone-code":"+91",
+     "state":{
+          "Maharastra":[
+              "Mumbai",
+              "Pune",
+              "Nagpur",
+              "Thane",
+              "Nashik",
+              "Kalyan-Dombivali",
+              "Vasai-Virar",
+              "Solapur"
+          ],
+          "Madhya Pradesh":[
+              "Indore",
+              "Bhopal",
+              "Ujjain",
+              "Ratlam",
+              "Jabalpur"
+          ],
+          "West Bengal":[
+              "Kolkata",
+              "Sikkim",
+              "Gangtok",
+              "Kalimpong<",
+              "Siliguri"
+          ]
+     }
+}
+]
